@@ -22,6 +22,8 @@ Your working folder should look like this after cloning : <br>
 Now just open the vs code in this folder and type--> streamlit run app.py <br>
 And your project will work just fine...
 ![image](https://github.com/AdhishthanAshok/Movie_Recommandation_System/assets/96656037/2c9e31e5-fafa-4998-ba3a-8edf4bf10cfa)
+<br>
+IT WILL LOOK LIKE THIS .... <br>
 ![image](https://github.com/AdhishthanAshok/Movie_Recommandation_System/assets/96656037/56816da2-de6a-48eb-a7b4-41f543030402)
 
 
