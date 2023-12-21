@@ -19,3 +19,5 @@ To check if they are installed or not .. you can check the version of the respec
 Your working folder should look like this after cloning :
 ![ss](https://github.com/AdhishthanAshok/Movie_Recommandation_System/assets/96656037/d7d0c737-5d35-4c44-8f30-4c739f02999f)
 
+Now just open the vs code in this folder and type--> streamlit run app.py
+And your project will work just fine...
